@@ -1,4 +1,4 @@
-# Inside Life
+# Cellulums
 
 A Godot 4.7 cell biology game. Grow one persistent cell by importing nutrients, making ATP, transcribing genes, building proteins, placing organelles and transporters, and responding to membrane damage and other stresses.
 
